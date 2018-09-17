@@ -1,5 +1,10 @@
 kyh halo
 180917 halou
+<<<<<<< HEAD
 
 
 thank you and you?
+=======
+How r u?
+I'm fine. you?
+>>>>>>> origin/master
